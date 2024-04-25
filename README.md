@@ -1,0 +1,2 @@
+# K8s-Exporter
+ This repository contains a Bash script for exporting Kubernetes cluster resources to YAML files. The script automates the process of exporting resources, including Custom Resource Definitions (CRDs), non-namespaced resources, and resources within each namespace. It also provides features such as backing up previous exports and adding changes to Git. Simply run the script to export resources from your Kubernetes cluster and manage them efficiently.
